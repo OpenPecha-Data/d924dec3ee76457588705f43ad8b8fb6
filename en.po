@@ -1,0 +1,75 @@
+#
+msgid ""
+msgstr ""
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "36647fa6eb6b46a9a92fd70c3d1c60cc"
+msgstr "Homage to all buddhas and bodhisattvas."
+
+msgid "f5871a2306f648f2ac014f2db642db6d"
+msgstr "Thus have I heard at one time."
+
+msgid "0f80a9e5e49d44b7b9df0d5b6b3c2a1c"
+msgstr ""
+"The Blessed One was dwelling in Rājagṛha at Vulture Peak Mountain together "
+"with a saṅgha of , monks and five thousand eminently famous bodhisattva "
+"mahāsattvas who had attained the superknowledges,"
+
+msgid "911b081785b5452d90cf8457caf1cf5a"
+msgstr "the retentions,"
+
+msgid "81af9d371d31415ea6660b5646b047f7"
+msgstr "the miraculous power of magical display,"
+
+msgid "d9e3a2f9c694491ea8723dc1414470a6"
+msgstr "and acceptance that phenomena are unborn"
+
+msgid "9f01b26f2b45472483f76eec11b3d7ac"
+msgstr "—famous ones such as the bodhisattva mahāsattva Siṃha,"
+
+msgid "9c85b02058924d38849aa621edffc456"
+msgstr "the bodhisattva mahāsattva Siṃhamati,"
+
+msgid "dc786aafc879415a9031dc4e65fd5181"
+msgstr "the bodhisattva mahāsattva Fine Sandalwood,"
+
+msgid "dac152539b13496ead7be72c6197c6ad"
+msgstr "the bodhisattva mahāsattva Sārathi,"
+
+msgid "661aa240e25447e89d1929a01232fea1"
+msgstr "the bodhisattva mahāsattva Mahāsārathi,"
+
+msgid "c29388ca117a455d9df34fbd7e768da0"
+msgstr "the bodhisattva mahāsattva Prabhāśrī,"
+
+msgid "cc90add29c1341038cf69259e7aa6497"
+msgstr "the bodhisattva mahāsattva Radiant,"
+
+msgid "dc62f2b10bcc470589e3088579e41185"
+msgstr ""
+"the bodhisattva mahāsattva Endowed with Brilliant Light and Having a "
+"Melodious Voice,"
+
+msgid "c73b1b2967384c8e89fb23cb64d1d96e"
+msgstr "the bodhisattva mahāsattva Prabhāvyūha,"
+
+msgid "a3a6e9e44d704aa7bb1ffedb8f2ab6c0"
+msgstr "the bodhisattva mahāsattva Clear Mind,"
+
+msgid "7c1af914f8154b66921905b329ff30e5"
+msgstr "the bodhisattva mahāsattva Essence of Beings,"
+
+msgid "97f824cd075c4818997ce151b7a1235e"
+msgstr "the bodhisattva mahāsattva Disciplined Charioteer of Beings,"
+
+msgid "f05b2af61f964930a53e6b6f2053ae7b"
+msgstr "all the bodhisattva mahāsattvas of the Fortunate Eon,"
+
+msgid "8b1567989cd24eb89a6826e32f243e50"
+msgstr "such as Maitreya,"
+
+msgid "4ad29160f9314ecc8e5665b4df6d3200"
+msgstr "and other bodhisattvas such as Mañjuśrīkumārabhūta and so forth."
